@@ -4,7 +4,7 @@ This system provides real-time monitoring of production line equipment by combin
 
 ## Context Diagram
 
-![Context Diagram]([Context-Process.png](http://github.com/SuryanshBVerma/Intelligent-Quality-Control-System/blob/main/Context%20Diagram.png))
+![Context Diagram](http://github.com/SuryanshBVerma/Intelligent-Quality-Control-System/blob/main/Context%20Diagram.png)
 
 ## System Overview
 
