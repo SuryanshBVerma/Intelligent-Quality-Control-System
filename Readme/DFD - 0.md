@@ -4,7 +4,7 @@ This Data Flow Diagram (DFD Level 0) outlines the core components and data flows
 
 ## Context Diagram
 
-![DFD Level 0 Diagram](DFD-0.png)
+![DFD Level 0 Diagram](https://github.com/SuryanshBVerma/Intelligent-Quality-Control-System/blob/main/DFD-0.png)
 
 ## System Overview
 
