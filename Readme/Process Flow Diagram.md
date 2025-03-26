@@ -1,6 +1,6 @@
 # Process Flow 
 
-![Process Flow Diagram](Process-Flow-Diagram.png)
+![Process Flow Diagram](https://github.com/SuryanshBVerma/Intelligent-Quality-Control-System/blob/main/Process%20Flow%20Diagram.png)
 
 ## Overview
 This document describes the end-to-end process flow for our industrial monitoring system that combines vision data and sensor readings to detect anomalies and trigger appropriate actions.
