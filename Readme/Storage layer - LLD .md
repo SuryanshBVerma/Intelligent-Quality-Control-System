@@ -1,6 +1,6 @@
 # Storage Layer LLD
 
-![Storage Service LLD Diagram](LLD-storage.jpg)
+![Storage Service LLD Diagram](https://github.com/SuryanshBVerma/Intelligent-Quality-Control-System/blob/main/LLD%20-%20storage.jpg)
 
 ## Component Overview
 
