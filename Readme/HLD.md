@@ -1,6 +1,6 @@
 # High Level Design
 
-![High Level Design Diagram](HLD.jpg)
+![High Level Design Diagram](https://github.com/SuryanshBVerma/Intelligent-Quality-Control-System/blob/main/HLD.jpg)
 
 ## System Overview
 
