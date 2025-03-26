@@ -1,6 +1,6 @@
 # Notification Service LLD
 
-![Notification Service LLD Diagram](LLD-Notification.jpg)
+![Notification Service LLD Diagram](https://github.com/SuryanshBVerma/Intelligent-Quality-Control-System/blob/main/LLD%20-%20Notification.jpg)
 
 ## Component Overview
 
